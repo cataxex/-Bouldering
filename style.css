@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+nav {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Schedule {
+    color: black;
+    padding-right: 50px;
+}
+
+.Classes {
+    color: black;
+    padding-right: 50px; 
+}
+
+.Address {
+   color: black;
+    padding-right: 50px; 
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.img1 {
+    border-left: 10px dotted black;
+    padding: 5px;
+    margin-left: 15%;
+}
+
+.img2 {
+    border-left: 10px dotted black;
+    padding: 5px; 
+}
+
+.img3 {
+    border-left: 10px dotted black;
+    padding: 5px;
+}
+
+main p {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 4%;
+}
+
+a {
+    color: blue;
+}
+
+footer {
+    background-color: black;
+    padding: 5px;
+}
+
+footer p {
+    background-color: white;
+}
